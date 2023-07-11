@@ -7,6 +7,11 @@ public class TTT extends JFrame {
     private JButton[][] btn;
     private boolean XT;
 
+    /*
+     * btn - Button
+     * XT - XTurn
+     */
+
     public TTT() {
         setTitle("Tic Tac Toe");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
